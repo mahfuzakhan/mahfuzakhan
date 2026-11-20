@@ -38,7 +38,7 @@ Exploring software development, programming, and emerging technologies.
 - Data Structures & Algorithms
 - Software Engineering
 
-## 📂 Projects
+## 🚀 Featured Projects
 
 *Add your project repositories here.*
 
