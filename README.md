@@ -42,6 +42,12 @@ Exploring software development, programming, and emerging technologies.
 
 *Add your project repositories here.*
 
+🔧 Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark" />
+</p>
+
+
 ## 📫 Connect With Me
 
 - GitHub: [Your GitHub Profile](https://github.com/MahfuzaKhan)
