@@ -41,11 +41,30 @@ Exploring software development, programming, and emerging technologies.
 ## 🚀 Featured Projects
 
 *Add your project repositories here.*
+## 🛠️ Tech Stack
 
-🔧 Dev Tools
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,php,js,html,css&theme=dark" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
+</p>
+
+
+### 🗄️ Databases & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,python&theme=dark" />
+</p>
+
+### 🔧 Dev Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark" />
 </p>
+
+
 
 
 ## 📫 Connect With Me
